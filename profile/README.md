@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://www.justpaid.ai">
-    <img src="https://www.justpaid.ai/logo.svg" alt="JustPaid" width="220" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loopfour/.github/main/profile/logo-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loopfour/.github/main/profile/logo-light.svg" />
+      <img src="https://raw.githubusercontent.com/loopfour/.github/main/profile/logo-light.svg" alt="JustPaid" width="300" />
+    </picture>
   </a>
 </p>
 
