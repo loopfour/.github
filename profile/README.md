@@ -43,27 +43,6 @@ We bring clarity to your finances — from spend management to payments to real-
 
 ---
 
-## By the Numbers
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <h3>$67M+</h3>
-        <p>Payment Volume</p>
-      </td>
-      <td align="center" width="200">
-        <h3>13K+</h3>
-        <p>Invoices Processed</p>
-      </td>
-      <td align="center" width="200">
-        <h3>2x</h3>
-        <p>Faster Collections</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## What We Do
