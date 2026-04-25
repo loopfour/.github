@@ -57,10 +57,6 @@ We bring clarity to your finances — from spend management to payments to real-
         <p>Invoices Processed</p>
       </td>
       <td align="center" width="200">
-        <h3>7.2K+</h3>
-        <p>Customers Managed</p>
-      </td>
-      <td align="center" width="200">
         <h3>2x</h3>
         <p>Faster Collections</p>
       </td>
