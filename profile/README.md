@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.justpaid.ai">
+  <a href="https://www.loopfour.ai">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loopfour/.github/main/profile/logo-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loopfour/.github/main/profile/logo-light.svg" />
