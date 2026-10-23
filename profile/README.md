@@ -7,7 +7,7 @@
 
 Deterministic, auditable automation for the finance workflows teams dread. Humans approve only the exceptions.
 
-[Website](https://loopfour.ai) · [Docs](https://loopfour.ai/docs) · [Blog](https://loopfour.ai/blog) · [Careers](https://loopfour.ai/careers)
+[Website](https://loopfour.ai) · [Docs](https://loopfour.ai/docs) · [Learn](https://loopfour.ai/articles) · [Blog](https://loopfour.ai/blog) · [Careers](https://loopfour.ai/careers)
 
 </div>
 
